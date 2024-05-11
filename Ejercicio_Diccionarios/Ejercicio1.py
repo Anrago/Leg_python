@@ -1,3 +1,7 @@
+# Antonio Ramos Gonzalez
+# Matricula:372576
+# 10/05/2024
+# Expo Diccionarios: Ejercicio 1
 import os
 import platform
 
