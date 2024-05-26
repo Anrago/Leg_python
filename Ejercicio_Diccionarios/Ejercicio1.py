@@ -83,6 +83,8 @@ while True:
         clear()
         eliminarAlumno(Alumnos)
         pause()
+    if opc == 5:
+        break
 
 
         
